@@ -26,3 +26,12 @@ The Sudoku puzzle game project is built using Java. The primary focus of the pro
 	5	Set Up Java Swing and AWT Libraries: In NetBeans, right-click on the project name in the "Projects" pane. Select "Properties" from the context menu. In the project properties window, go to "Libraries" and ensure that "Java Platform" is set to the appropriate JDK version and that "Swing Layout Extensions" and "AWT" are included in the "Classpath" section.
 	6	Build the Project: Right-click on the project name again and choose "Build" from the context menu. This will compile the Java code and build the project.
 	7	Run the Project: After successful build, right-click on the project name. Select "Run" from the context menu, or click the green "Play" button in the toolbar. This will launch the Sudoku Solver application.
+
+
+## Screenshots 
+
+<img width="596" alt="Screenshot 2023-10-02 at 3 04 36 PM" src="https://github.com/rajauria/Sudoko_Solver/assets/58137634/4976ebbf-7117-4953-9c4a-2442d415f7d4">
+
+<img width="627" alt="Screenshot 2023-10-02 at 3 06 03 PM" src="https://github.com/rajauria/Sudoko_Solver/assets/58137634/b3f7d85b-0f22-457a-b668-a74f683c5035">
+
+<img width="604" alt="Screenshot 2023-10-02 at 3 05 12 PM" src="https://github.com/rajauria/Sudoko_Solver/assets/58137634/409f7e26-02e9-4138-be67-8e1fd8784f5e">
