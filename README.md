@@ -6,9 +6,13 @@ The Sudoku puzzle game project is built using Java. The primary focus of the pro
 ## Description
 
 • 9x9 grid of boxes to be filled with digits from 1 to 9.
+
 • Reset button to empty the whole grid and start over.
+
 • Exit button to close the game execution.
+
 • Solution button to automatically fill the grid with expected solutions.
+
 • Check Moves button to verify the correctness of the moves made.
 
 ## How to run?
